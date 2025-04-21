@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://MattWatson1.github.io/sitemap.xml
