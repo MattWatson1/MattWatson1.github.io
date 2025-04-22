@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth year mathematics PhD candidate at the University of Colorado at Boulder advised by [Sebastian Casalaina-Martin](https://math.colorado.edu/~sbc21/). My current research goals relate to Hodge theoretic constructions of moduli spaces. More precisely, I have been studying the singularities appearing on arithmetic ball quotients defined over the Eisenstein integers with the hope of showing when these spaces are of general type. I have recently become more interested in modular forms.
+I am a fifth year mathematics PhD candidate at the University of Colorado at Boulder advised by [Sebastian Casalaina-Martin](https://math.colorado.edu/~sbc21/). My current research is related to Hodge theoretic constructions of moduli spaces. More precisely, I have been studying the singularities appearing on arithmetic ball quotients defined over the Eisenstein integers with the hope of showing when these spaces are of general type. I have recently become more interested in modular forms.
 
 When I'm not doing math, I enjoy hiking, reading fantasy books, playing board games, and going to the [movies](https://letterboxd.com/wattmatson/). 
 
