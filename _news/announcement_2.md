@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed PhD candidate requirements. 
+I completed PhD candidate requirements. 

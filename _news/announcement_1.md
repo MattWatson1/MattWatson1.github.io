@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began graduate school at CU Boulder.
+I began graduate school at CU Boulder.
